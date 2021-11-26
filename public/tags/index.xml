@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Persian</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on Persian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Aug 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Housing</title>
+      <link>https://www.example.com/tags/housing/</link>
+      <pubDate>Thu, 12 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/housing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studio</title>
+      <link>https://www.example.com/tags/studio/</link>
+      <pubDate>Thu, 12 Aug 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arkansas</title>
+      <link>https://www.example.com/tags/arkansas/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/arkansas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Work</title>
+      <link>https://www.example.com/tags/student-work/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/student-work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://www.example.com/tags/teaching/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://www.example.com/tags/architecture/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://www.example.com/tags/development/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphic Design</title>
+      <link>https://www.example.com/tags/graphic-design/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/graphic-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspire</title>
+      <link>https://www.example.com/tags/inspire/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/inspire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>https://www.example.com/tags/nature/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new</title>
+      <link>https://www.example.com/tags/new/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://www.example.com/tags/new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
